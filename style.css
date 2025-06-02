@@ -10,12 +10,12 @@ body {
 
 @font-face {
   font-family: "idroid";
-  src: url("/fontes/idroid.otf");
+  src: url("fontes/idroid.otf");
 }
 
 @font-face {
   font-family: "bebas ue";
-  src: url("/fontes/BebasNeue-Regular.ttf");
+  src: url("fontes/BebasNeue-Regular.ttf");
 }
 header {
   background: linear-gradient(to bottom, #62e086, #255a3c);
